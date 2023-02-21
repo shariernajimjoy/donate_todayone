@@ -257,7 +257,7 @@
 
 .lives-two img {
     width: 456px;
-    height: 477px;
+    border-radius: 5px;
 }
 /* section lives end */
 /* section updates */
